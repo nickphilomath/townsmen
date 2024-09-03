@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:4b3538c441b6cee284ac45b9c1cf7642:986795f74d70f59db0a7e1617fa2945e:a199f853ee4f49695b9ee978d6163472$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="tiles_summer_2.png" width="4096" height="4096">
+    <sprite n="tile_2x2_f_0_0_00" x="2062" y="1780" w="126" h="256" pX="0.5" pY="0.5" r="y"/>
+    <sprite n="tile_2x2_f_0_0_01" x="2062" y="2037" w="126" h="256" pX="0.5" pY="0.5" r="y"/>
+    <sprite n="tile_2x2_f_0_0_02" x="2062" y="1780" w="126" h="256" pX="0.5" pY="0.5" r="y"/>
+    <sprite n="tile_2x2_f_0_0_03" x="2062" y="2037" w="126" h="256" pX="0.5" pY="0.5" r="y"/>
+    <sprite n="tile_2x2_ffffffggg_0_000222000_00" x="1" y="1" w="326" h="121" pX="0.5" pY="0.5" oX="82" oY="0" oW="420" oH="174"/>
+    <sprite n="tile_2x2_ffffffwww_0_0_00" x="258" y="1961" w="256" h="125" pX="0.5" pY="0.5" oX="0" oY="0" oW="256" oH="126"/>
+    <sprite n="tile_2x2_ffffffwww_0_0_01" x="1" y="1987" w="256" h="125" pX="0.5" pY="0.5" oX="0" oY="0" oW="256" oH="126"/>
+    <sprite n="tile_2x2_ffgffgffg_0_020020020_00" x="328" y="1" w="326" h="121" pX="0.5" pY="0.5" oX="12" oY="0" oW="420" oH="174"/>
+    <sprite n="tile_2x2_ffgffgwwg_0_020020000_00" x="1336" y="1759" w="125" h="256" pX="0.5" pY="0.5" oX="0" oY="3" oW="256" oH="168" r="y"/>
+    <sprite n="tile_2x2_ffwffwffw_0_0_00" x="1029" y="1794" w="256" h="125" pX="0.5" pY="0.5" oX="0" oY="0" oW="256" oH="126"/>
+    <sprite n="tile_2x2_ffwffwffw_0_0_01" x="772" y="1910" w="256" h="125" pX="0.5" pY="0.5" oX="0" oY="0" oW="256" oH="126"/>
+    <sprite n="tile_2x2_ffwffwggg_0_000220000_00" x="515" y="2018" w="256" h="125" pX="0.5" pY="0.5" oX="0" oY="3" oW="256" oH="168"/>
+    <sprite n="tile_2x2_gcgwwwwww_0_011011011.0" x="643" y="351" w="316" h="267" pX="0.5" pY="0.5" oX="69" oY="17" oW="512" oH="284"/>
+    <sprite n="tile_2x2_gcgwwwwww_0_011011011.1" x="1" y="473" w="316" h="267" pX="0.5" pY="0.5" oX="69" oY="17" oW="512" oH="284"/>
+    <sprite n="tile_2x2_gcgwwwwww_0_011011011.2" x="318" y="473" w="316" h="267" pX="0.5" pY="0.5" oX="69" oY="17" oW="512" oH="284"/>
+    <sprite n="tile_2x2_gcgwwwwww_0_011011011.3" x="1607" y="190" w="316" h="267" pX="0.5" pY="0.5" oX="69" oY="17" oW="512" oH="284"/>
+    <sprite n="tile_2x2_gcgwwwwww_0_011011011.4" x="1285" y="352" w="316" h="267" pX="0.5" pY="0.5" oX="69" oY="17" oW="512" oH="284"/>
+    <sprite n="tile_2x2_gcgwwwwww_0_011011011.5" x="960" y="511" w="316" h="267" pX="0.5" pY="0.5" oX="69" oY="17" oW="512" oH="284"/>
+    <sprite n="tile_2x2_gcgwwwwww_0_011011011.6" x="635" y="619" w="316" h="267" pX="0.5" pY="0.5" oX="69" oY="17" oW="512" oH="284"/>
+    <sprite n="tile_2x2_gcgwwwwww_0_011011011.7" x="1" y="741" w="316" h="267" pX="0.5" pY="0.5" oX="69" oY="17" oW="512" oH="284"/>
+    <sprite n="tile_2x2_gcgwwwwww_0_110110110.0" x="3833" y="1161" w="256" h="267" pX="0.5" pY="0.5" oX="0" oY="9" oW="256" oH="276"/>
+    <sprite n="tile_2x2_gcgwwwwww_0_110110110.1" x="3059" y="1225" w="267" h="256" pX="0.5" pY="0.5" oX="0" oY="9" oW="256" oH="276" r="y"/>
+    <sprite n="tile_2x2_gcgwwwwww_0_110110110.2" x="3327" y="1373" w="267" h="256" pX="0.5" pY="0.5" oX="0" oY="9" oW="256" oH="276" r="y"/>
+    <sprite n="tile_2x2_gcgwwwwww_0_110110110.3" x="3805" y="1618" w="267" h="256" pX="0.5" pY="0.5" oX="0" oY="9" oW="256" oH="276" r="y"/>
+    <sprite n="tile_2x2_gcgwwwwww_0_110110110.4" x="1846" y="1009" w="267" h="256" pX="0.5" pY="0.5" oX="0" oY="9" oW="256" oH="276" r="y"/>
+    <sprite n="tile_2x2_gcgwwwwww_0_110110110.5" x="1576" y="1035" w="267" h="256" pX="0.5" pY="0.5" oX="0" oY="9" oW="256" oH="276" r="y"/>
+    <sprite n="tile_2x2_gcgwwwwww_0_110110110.6" x="2207" y="1030" w="267" h="256" pX="0.5" pY="0.5" oX="0" oY="9" oW="256" oH="276" r="y"/>
+    <sprite n="tile_2x2_gcgwwwwww_0_110110110.7" x="2475" y="1197" w="267" h="256" pX="0.5" pY="0.5" oX="0" oY="9" oW="256" oH="276" r="y"/>
+    <sprite n="tile_2x2_gffgffgff_0_020020020_00" x="2743" y="1346" w="263" h="194" pX="0.5" pY="0.5" oX="0" oY="0" oW="268" oH="194"/>
+    <sprite n="tile_2x2_gffgffgww_0_020020000_00" x="2190" y="1707" w="256" h="193" pX="0.5" pY="0.5" oX="0" oY="0" oW="256" oH="194"/>
+    <sprite n="tile_2x2_gggffffff_0_000222000_00" x="1258" y="1050" w="263" h="194" pX="0.5" pY="0.5" oX="5" oY="0" oW="268" oH="194"/>
+    <sprite n="tile_2x2_gggffwffw_0_000220000_00" x="1805" y="1872" w="256" h="193" pX="0.5" pY="0.5" oX="0" oY="0" oW="256" oH="194"/>
+    <sprite n="tile_2x2_ggggwwgww_0_2.0" x="3874" y="1" w="209" h="256" pX="0.5" pY="0.5" oX="0" oY="45" oW="256" oH="254" r="y"/>
+    <sprite n="tile_2x2_ggggwwgww_0_2.1" x="3595" y="1558" w="209" h="256" pX="0.5" pY="0.5" oX="0" oY="45" oW="256" oH="254" r="y"/>
+    <sprite n="tile_2x2_ggggwwgww_0_2.2" x="1844" y="1266" w="256" h="209" pX="0.5" pY="0.5" oX="0" oY="45" oW="256" oH="254"/>
+    <sprite n="tile_2x2_ggggwwgww_0_2.3" x="2194" y="1287" w="256" h="209" pX="0.5" pY="0.5" oX="0" oY="45" oW="256" oH="254"/>
+    <sprite n="tile_2x2_ggggwwgww_0_2.4" x="2451" y="1454" w="256" h="209" pX="0.5" pY="0.5" oX="0" oY="45" oW="256" oH="254"/>
+    <sprite n="tile_2x2_ggggwwgww_0_2.5" x="2194" y="1497" w="256" h="209" pX="0.5" pY="0.5" oX="0" oY="45" oW="256" oH="254"/>
+    <sprite n="tile_2x2_ggggwwgww_0_2.6" x="2708" y="1541" w="256" h="209" pX="0.5" pY="0.5" oX="0" oY="45" oW="256" oH="254"/>
+    <sprite n="tile_2x2_ggggwwgww_0_2.7" x="2451" y="1664" w="256" h="209" pX="0.5" pY="0.5" oX="0" oY="45" oW="256" oH="254"/>
+    <sprite n="tile_2x2_gggwffwff_0_000022000_00" x="1903" y="842" w="269" h="166" pX="0.5" pY="0.5" oX="11" oY="0" oW="280" oH="166"/>
+    <sprite n="tile_2x2_gggwwgwwg_0_2.0" x="3474" y="2472" w="256" h="155" pX="0.5" pY="0.5" oX="0" oY="51" oW="256" oH="254"/>
+    <sprite n="tile_2x2_gggwwgwwg_0_2.1" x="3217" y="2601" w="256" h="155" pX="0.5" pY="0.5" oX="0" oY="51" oW="256" oH="254"/>
+    <sprite n="tile_2x2_gggwwgwwg_0_2.2" x="3731" y="2530" w="256" h="155" pX="0.5" pY="0.5" oX="0" oY="51" oW="256" oH="254"/>
+    <sprite n="tile_2x2_gggwwgwwg_0_2.3" x="3474" y="2628" w="256" h="155" pX="0.5" pY="0.5" oX="0" oY="51" oW="256" oH="254"/>
+    <sprite n="tile_2x2_gggwwgwwg_0_2.4" x="880" y="1448" w="256" h="155" pX="0.5" pY="0.5" oX="0" oY="51" oW="256" oH="254"/>
+    <sprite n="tile_2x2_gggwwgwwg_0_2.5" x="565" y="1556" w="256" h="155" pX="0.5" pY="0.5" oX="0" oY="51" oW="256" oH="254"/>
+    <sprite n="tile_2x2_gggwwgwwg_0_2.6" x="258" y="1652" w="256" h="155" pX="0.5" pY="0.5" oX="0" oY="51" oW="256" oH="254"/>
+    <sprite n="tile_2x2_gggwwgwwg_0_2.7" x="1" y="1678" w="256" h="155" pX="0.5" pY="0.5" oX="0" oY="51" oW="256" oH="254"/>
+    <sprite n="tile_2x2_gwwcwwgww_0_000111111.0" x="2239" y="576" w="311" h="223" pX="0.5" pY="0.5" oX="127" oY="61" oW="512" oH="284"/>
+    <sprite n="tile_2x2_gwwcwwgww_0_000111111.1" x="316" y="1171" w="306" h="223" pX="0.5" pY="0.5" oX="127" oY="61" oW="512" oH="284"/>
+    <sprite n="tile_2x2_gwwcwwgww_0_000111111.2" x="3871" y="258" w="223" h="316" pX="0.5" pY="0.5" oX="127" oY="61" oW="512" oH="284" r="y"/>
+    <sprite n="tile_2x2_gwwcwwgww_0_000111111.3" x="318" y="741" w="316" h="223" pX="0.5" pY="0.5" oX="127" oY="61" oW="512" oH="284"/>
+    <sprite n="tile_2x2_gwwcwwgww_0_000111111.4" x="2241" y="352" w="314" h="223" pX="0.5" pY="0.5" oX="127" oY="61" oW="512" oH="284"/>
+    <sprite n="tile_2x2_gwwcwwgww_0_000111111.5" x="1267" y="826" w="308" h="223" pX="0.5" pY="0.5" oX="127" oY="61" oW="512" oH="284"/>
+    <sprite n="tile_2x2_gwwcwwgww_0_000111111.6" x="1924" y="190" w="316" h="223" pX="0.5" pY="0.5" oX="127" oY="61" oW="512" oH="284"/>
+    <sprite n="tile_2x2_gwwcwwgww_0_000111111.7" x="1924" y="414" w="314" h="223" pX="0.5" pY="0.5" oX="127" oY="61" oW="512" oH="284"/>
+    <sprite n="tile_2x2_gwwcwwgww_0_111111000.0" x="941" y="1191" w="256" h="256" pX="0.5" pY="0.5"/>
+    <sprite n="tile_2x2_gwwcwwgww_0_111111000.1" x="623" y="1299" w="256" h="256" pX="0.5" pY="0.5"/>
+    <sprite n="tile_2x2_gwwcwwgww_0_111111000.2" x="308" y="1395" w="256" h="256" pX="0.5" pY="0.5"/>
+    <sprite n="tile_2x2_gwwcwwgww_0_111111000.3" x="1" y="1421" w="256" h="256" pX="0.5" pY="0.5"/>
+    <sprite n="tile_2x2_gwwcwwgww_0_111111000.4" x="3007" y="1482" w="256" h="256" pX="0.5" pY="0.5"/>
+    <sprite n="tile_2x2_gwwcwwgww_0_111111000.5" x="3264" y="1630" w="256" h="256" pX="0.5" pY="0.5"/>
+    <sprite n="tile_2x2_gwwcwwgww_0_111111000.6" x="3521" y="1815" w="256" h="256" pX="0.5" pY="0.5"/>
+    <sprite n="tile_2x2_gwwcwwgww_0_111111000.7" x="3778" y="1875" w="256" h="256" pX="0.5" pY="0.5"/>
+    <sprite n="tile_2x2_gwwgffgff_0_000020020_00" x="1576" y="868" w="269" h="166" pX="0.5" pY="0.5" oX="0" oY="0" oW="280" oH="166"/>
+    <sprite n="tile_2x2_gwwgwwggg_0_2.0" x="3676" y="1044" w="156" h="256" pX="0.5" pY="0.5" oX="0" oY="57" oW="256" oH="254" r="y"/>
+    <sprite n="tile_2x2_gwwgwwggg_0_2.1" x="3651" y="1301" w="156" h="256" pX="0.5" pY="0.5" oX="0" oY="57" oW="256" oH="254" r="y"/>
+    <sprite n="tile_2x2_gwwgwwggg_0_2.2" x="2189" y="2289" w="256" h="156" pX="0.5" pY="0.5" oX="0" oY="57" oW="256" oH="254"/>
+    <sprite n="tile_2x2_gwwgwwggg_0_2.3" x="3218" y="2287" w="256" h="156" pX="0.5" pY="0.5" oX="0" oY="57" oW="256" oH="254"/>
+    <sprite n="tile_2x2_gwwgwwggg_0_2.4" x="2960" y="2333" w="256" h="156" pX="0.5" pY="0.5" oX="0" oY="57" oW="256" oH="254"/>
+    <sprite n="tile_2x2_gwwgwwggg_0_2.5" x="2703" y="2339" w="256" h="156" pX="0.5" pY="0.5" oX="0" oY="57" oW="256" oH="254"/>
+    <sprite n="tile_2x2_gwwgwwggg_0_2.6" x="3217" y="2444" w="256" h="156" pX="0.5" pY="0.5" oX="0" oY="57" oW="256" oH="254"/>
+    <sprite n="tile_2x2_gwwgwwggg_0_2.7" x="2960" y="2490" w="256" h="156" pX="0.5" pY="0.5" oX="0" oY="57" oW="256" oH="254"/>
+    <sprite n="tile_2x2_gwwwwwwww_0_2.0" x="3736" y="2332" w="256" h="197" pX="0.5" pY="0.5" oX="0" oY="57" oW="256" oH="254"/>
+    <sprite n="tile_2x2_gwwwwwwww_0_2.1" x="1198" y="1245" w="256" h="197" pX="0.5" pY="0.5" oX="0" oY="57" oW="256" oH="254"/>
+    <sprite n="tile_2x2_gwwwwwwww_0_2.2" x="1198" y="1443" w="256" h="197" pX="0.5" pY="0.5" oX="0" oY="57" oW="256" oH="254"/>
+    <sprite n="tile_2x2_gwwwwwwww_0_2.3" x="1548" y="1292" w="256" h="197" pX="0.5" pY="0.5" oX="0" oY="57" oW="256" oH="254"/>
+    <sprite n="tile_2x2_gwwwwwwww_0_2.4" x="1805" y="1476" w="256" h="197" pX="0.5" pY="0.5" oX="0" oY="57" oW="256" oH="254"/>
+    <sprite n="tile_2x2_gwwwwwwww_0_2.5" x="1548" y="1490" w="256" h="197" pX="0.5" pY="0.5" oX="0" oY="57" oW="256" oH="254"/>
+    <sprite n="tile_2x2_gwwwwwwww_0_2.6" x="1805" y="1674" w="256" h="197" pX="0.5" pY="0.5" oX="0" oY="57" oW="256" oH="254"/>
+    <sprite n="tile_2x2_gwwwwwwww_0_2.7" x="1548" y="1688" w="256" h="197" pX="0.5" pY="0.5" oX="0" oY="57" oW="256" oH="254"/>
+    <sprite n="tile_2x2_wffwffggg_0_000022000_00" x="2551" y="692" w="293" h="83" pX="0.5" pY="0.5" oX="155" oY="0" oW="456" oH="138"/>
+    <sprite n="tile_2x2_wffwffwff_0_0_00" x="258" y="2087" w="256" h="125" pX="0.5" pY="0.5" oX="0" oY="1" oW="256" oH="126"/>
+    <sprite n="tile_2x2_wffwffwff_0_0_01" x="1" y="2113" w="256" h="125" pX="0.5" pY="0.5" oX="0" oY="1" oW="256" oH="126"/>
+    <sprite n="tile_2x2_wwgffgffg_0_000020020_00" x="3174" y="530" w="293" h="83" pX="0.5" pY="0.5" oX="8" oY="0" oW="456" oH="138"/>
+    <sprite n="tile_2x2_wwgwwcwwg_0_000111111.0" x="2241" y="190" w="316" h="161" pX="0.5" pY="0.5" oX="5" oY="0" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwgwwcwwg_0_000111111.1" x="2558" y="324" w="315" h="161" pX="0.5" pY="0.5" oX="6" oY="0" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwgwwcwwg_0_000111111.2" x="2587" y="1" w="321" h="161" pX="0.5" pY="0.5" oX="0" oY="0" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwgwwcwwg_0_000111111.3" x="2909" y="1" w="321" h="161" pX="0.5" pY="0.5" oX="0" oY="0" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwgwwcwwg_0_000111111.4" x="1287" y="190" w="319" h="161" pX="0.5" pY="0.5" oX="2" oY="0" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwgwwcwwg_0_000111111.5" x="966" y="349" w="318" h="161" pX="0.5" pY="0.5" oX="3" oY="0" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwgwwcwwg_0_000111111.6" x="3231" y="1" w="321" h="161" pX="0.5" pY="0.5" oX="0" oY="0" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwgwwcwwg_0_000111111.7" x="3553" y="1" w="320" h="161" pX="0.5" pY="0.5" oX="1" oY="0" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwgwwcwwg_0_111111000.0" x="655" y="1" w="321" h="188" pX="0.5" pY="0.5" oX="0" oY="29" oW="384" oH="254"/>
+    <sprite n="tile_2x2_wwgwwcwwg_0_111111000.1" x="1" y="123" w="321" h="188" pX="0.5" pY="0.5" oX="0" oY="29" oW="384" oH="254"/>
+    <sprite n="tile_2x2_wwgwwcwwg_0_111111000.2" x="323" y="123" w="321" h="188" pX="0.5" pY="0.5" oX="0" oY="29" oW="384" oH="254"/>
+    <sprite n="tile_2x2_wwgwwcwwg_0_111111000.3" x="977" y="1" w="321" h="188" pX="0.5" pY="0.5" oX="0" oY="29" oW="384" oH="254"/>
+    <sprite n="tile_2x2_wwgwwcwwg_0_111111000.4" x="1299" y="1" w="321" h="188" pX="0.5" pY="0.5" oX="0" oY="29" oW="384" oH="254"/>
+    <sprite n="tile_2x2_wwgwwcwwg_0_111111000.5" x="1621" y="1" w="321" h="188" pX="0.5" pY="0.5" oX="0" oY="29" oW="384" oH="254"/>
+    <sprite n="tile_2x2_wwgwwcwwg_0_111111000.6" x="1943" y="1" w="321" h="188" pX="0.5" pY="0.5" oX="0" oY="29" oW="384" oH="254"/>
+    <sprite n="tile_2x2_wwgwwcwwg_0_111111000.7" x="2265" y="1" w="321" h="188" pX="0.5" pY="0.5" oX="0" oY="29" oW="384" oH="254"/>
+    <sprite n="tile_2x2_wwgwwgggg_0_2.0" x="2062" y="1523" w="127" h="256" pX="0.5" pY="0.5" oX="0" oY="72" oW="256" oH="254" r="y"/>
+    <sprite n="tile_2x2_wwgwwgggg_0_2.1" x="2062" y="1523" w="127" h="256" pX="0.5" pY="0.5" oX="0" oY="72" oW="256" oH="254" r="y"/>
+    <sprite n="tile_2x2_wwgwwgggg_0_2.2" x="2062" y="1523" w="127" h="256" pX="0.5" pY="0.5" oX="0" oY="72" oW="256" oH="254" r="y"/>
+    <sprite n="tile_2x2_wwgwwgggg_0_2.3" x="2062" y="1523" w="127" h="256" pX="0.5" pY="0.5" oX="0" oY="72" oW="256" oH="254" r="y"/>
+    <sprite n="tile_2x2_wwgwwgggg_0_2.4" x="2062" y="1523" w="127" h="256" pX="0.5" pY="0.5" oX="0" oY="72" oW="256" oH="254" r="y"/>
+    <sprite n="tile_2x2_wwgwwgggg_0_2.5" x="2062" y="1523" w="127" h="256" pX="0.5" pY="0.5" oX="0" oY="72" oW="256" oH="254" r="y"/>
+    <sprite n="tile_2x2_wwgwwgggg_0_2.6" x="2062" y="1523" w="127" h="256" pX="0.5" pY="0.5" oX="0" oY="72" oW="256" oH="254" r="y"/>
+    <sprite n="tile_2x2_wwgwwgggg_0_2.7" x="2062" y="1523" w="127" h="256" pX="0.5" pY="0.5" oX="0" oY="72" oW="256" oH="254" r="y"/>
+    <sprite n="tile_2x2_wwgwwwwww_0_2.0" x="2447" y="1874" w="256" h="193" pX="0.5" pY="0.5" oX="0" oY="61" oW="256" oH="254"/>
+    <sprite n="tile_2x2_wwgwwwwww_0_2.1" x="2189" y="1901" w="256" h="193" pX="0.5" pY="0.5" oX="0" oY="61" oW="256" oH="254"/>
+    <sprite n="tile_2x2_wwgwwwwww_0_2.2" x="2704" y="1951" w="256" h="193" pX="0.5" pY="0.5" oX="0" oY="61" oW="256" oH="254"/>
+    <sprite n="tile_2x2_wwgwwwwww_0_2.3" x="2446" y="2068" w="256" h="193" pX="0.5" pY="0.5" oX="0" oY="61" oW="256" oH="254"/>
+    <sprite n="tile_2x2_wwgwwwwww_0_2.4" x="2189" y="2095" w="256" h="193" pX="0.5" pY="0.5" oX="0" oY="61" oW="256" oH="254"/>
+    <sprite n="tile_2x2_wwgwwwwww_0_2.5" x="2961" y="2139" w="256" h="193" pX="0.5" pY="0.5" oX="0" oY="61" oW="256" oH="254"/>
+    <sprite n="tile_2x2_wwgwwwwww_0_2.6" x="2703" y="2145" w="256" h="193" pX="0.5" pY="0.5" oX="0" oY="61" oW="256" oH="254"/>
+    <sprite n="tile_2x2_wwgwwwwww_0_2.7" x="2446" y="2262" w="256" h="193" pX="0.5" pY="0.5" oX="0" oY="61" oW="256" oH="254"/>
+    <sprite n="tile_2x2_wwwffffff_0_0_00" x="1029" y="1920" w="256" h="125" pX="0.5" pY="0.5" oX="0" oY="1" oW="256" oH="126"/>
+    <sprite n="tile_2x2_wwwffffff_0_0_01" x="772" y="2036" w="256" h="125" pX="0.5" pY="0.5" oX="0" oY="1" oW="256" oH="126"/>
+    <sprite n="tile_2x2_wwwwwwgcg_0_011011011.0" x="966" y="190" w="320" h="158" pX="0.5" pY="0.5" oX="63" oY="9" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwwwwwgcg_0_011011011.1" x="2587" y="163" w="320" h="160" pX="0.5" pY="0.5" oX="63" oY="7" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwwwwwgcg_0_011011011.2" x="2908" y="163" w="320" h="160" pX="0.5" pY="0.5" oX="63" oY="7" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwwwwwgcg_0_011011011.3" x="3229" y="163" w="320" h="160" pX="0.5" pY="0.5" oX="63" oY="7" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwwwwwgcg_0_011011011.4" x="3550" y="163" w="320" h="160" pX="0.5" pY="0.5" oX="63" oY="7" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwwwwwgcg_0_011011011.5" x="645" y="190" w="320" h="160" pX="0.5" pY="0.5" oX="63" oY="7" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwwwwwgcg_0_011011011.6" x="1" y="312" w="320" h="160" pX="0.5" pY="0.5" oX="63" oY="7" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwwwwwgcg_0_011011011.7" x="322" y="312" w="320" h="160" pX="0.5" pY="0.5" oX="63" oY="7" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwwwwwgcg_0_110110110.0" x="3138" y="847" w="268" h="188" pX="0.5" pY="0.5" oX="63" oY="21" oW="384" oH="256"/>
+    <sprite n="tile_2x2_wwwwwwgcg_0_110110110.1" x="2844" y="968" w="268" h="188" pX="0.5" pY="0.5" oX="63" oY="21" oW="384" oH="256"/>
+    <sprite n="tile_2x2_wwwwwwgcg_0_110110110.2" x="2521" y="1008" w="268" h="188" pX="0.5" pY="0.5" oX="63" oY="21" oW="384" oH="256"/>
+    <sprite n="tile_2x2_wwwwwwgcg_0_110110110.3" x="3407" y="995" w="268" h="188" pX="0.5" pY="0.5" oX="63" oY="21" oW="384" oH="256"/>
+    <sprite n="tile_2x2_wwwwwwgcg_0_110110110.4" x="3113" y="1036" w="268" h="188" pX="0.5" pY="0.5" oX="63" oY="21" oW="384" oH="256"/>
+    <sprite n="tile_2x2_wwwwwwgcg_0_110110110.5" x="3382" y="1184" w="268" h="188" pX="0.5" pY="0.5" oX="63" oY="21" oW="384" oH="256"/>
+    <sprite n="tile_2x2_wwwwwwgcg_0_110110110.6" x="3808" y="1429" w="268" h="188" pX="0.5" pY="0.5" oX="63" oY="21" oW="384" oH="256"/>
+    <sprite n="tile_2x2_wwwwwwgcg_0_110110110.7" x="2790" y="1157" w="268" h="188" pX="0.5" pY="0.5" oX="63" oY="21" oW="384" oH="256"/>
+    <sprite n="tile_2x2_wwwwwwgww_0_2.0" x="3731" y="2686" w="256" h="152" pX="0.5" pY="0.5" oX="0" oY="102" oW="256" oH="254"/>
+    <sprite n="tile_2x2_wwwwwwgww_0_2.1" x="822" y="1604" w="256" h="152" pX="0.5" pY="0.5" oX="0" oY="102" oW="256" oH="254"/>
+    <sprite n="tile_2x2_wwwwwwgww_0_2.2" x="515" y="1712" w="256" h="152" pX="0.5" pY="0.5" oX="0" oY="102" oW="256" oH="254"/>
+    <sprite n="tile_2x2_wwwwwwgww_0_2.3" x="258" y="1808" w="256" h="152" pX="0.5" pY="0.5" oX="0" oY="102" oW="256" oH="254"/>
+    <sprite n="tile_2x2_wwwwwwgww_0_2.4" x="1" y="1834" w="256" h="152" pX="0.5" pY="0.5" oX="0" oY="102" oW="256" oH="254"/>
+    <sprite n="tile_2x2_wwwwwwgww_0_2.5" x="1079" y="1641" w="256" h="152" pX="0.5" pY="0.5" oX="0" oY="102" oW="256" oH="254"/>
+    <sprite n="tile_2x2_wwwwwwgww_0_2.6" x="772" y="1757" w="256" h="152" pX="0.5" pY="0.5" oX="0" oY="102" oW="256" oH="254"/>
+    <sprite n="tile_2x2_wwwwwwgww_0_2.7" x="515" y="1865" w="256" h="152" pX="0.5" pY="0.5" oX="0" oY="102" oW="256" oH="254"/>
+    <sprite n="tile_2x2_wwwwwwwwg_0_2.0" x="3761" y="530" w="92" h="256" pX="0.5" pY="0.5" oX="0" oY="121" oW="256" oH="254" r="y"/>
+    <sprite n="tile_2x2_wwwwwwwwg_0_2.1" x="3760" y="787" w="92" h="256" pX="0.5" pY="0.5" oX="0" oY="121" oW="256" oH="254" r="y"/>
+    <sprite n="tile_2x2_wwwwwwwwg_0_2.2" x="2114" y="1009" w="92" h="256" pX="0.5" pY="0.5" oX="0" oY="121" oW="256" oH="254" r="y"/>
+    <sprite n="tile_2x2_wwwwwwwwg_0_2.3" x="2101" y="1266" w="92" h="256" pX="0.5" pY="0.5" oX="0" oY="121" oW="256" oH="254" r="y"/>
+    <sprite n="tile_2x2_wwwwwwwwg_0_2.4" x="3993" y="2132" w="92" h="256" pX="0.5" pY="0.5" oX="0" oY="121" oW="256" oH="254" r="y"/>
+    <sprite n="tile_2x2_wwwwwwwwg_0_2.5" x="3993" y="2389" w="92" h="256" pX="0.5" pY="0.5" oX="0" oY="121" oW="256" oH="254" r="y"/>
+    <sprite n="tile_2x2_wwwwwwwwg_0_2.6" x="1455" y="1245" w="92" h="256" pX="0.5" pY="0.5" oX="0" oY="121" oW="256" oH="254" r="y"/>
+    <sprite n="tile_2x2_wwwwwwwwg_0_2.7" x="1455" y="1502" w="92" h="256" pX="0.5" pY="0.5" oX="0" oY="121" oW="256" oH="254" r="y"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_000111111.0" x="1917" y="638" w="310" h="203" pX="0.5" pY="0.5" oX="11" oY="19" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_000111111.1" x="1602" y="458" w="314" h="205" pX="0.5" pY="0.5" oX="7" oY="17" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_000111111.2" x="1277" y="620" w="314" h="205" pX="0.5" pY="0.5" oX="7" oY="17" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_000111111.3" x="950" y="985" w="307" h="205" pX="0.5" pY="0.5" oX="14" oY="17" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_000111111.4" x="952" y="779" w="314" h="205" pX="0.5" pY="0.5" oX="7" oY="17" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_000111111.5" x="2874" y="324" w="313" h="205" pX="0.5" pY="0.5" oX="8" oY="17" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_000111111.6" x="1" y="1215" w="306" h="205" pX="0.5" pY="0.5" oX="15" oY="17" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_000111111.7" x="3495" y="324" w="303" h="205" pX="0.5" pY="0.5" oX="18" oY="17" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_011011011.0" x="1592" y="664" w="310" h="203" pX="0.5" pY="0.5" oX="63" oY="19" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_011011011.1" x="635" y="887" w="314" h="205" pX="0.5" pY="0.5" oX="63" oY="17" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_011011011.2" x="318" y="965" w="314" h="205" pX="0.5" pY="0.5" oX="63" oY="17" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_011011011.3" x="633" y="1093" w="307" h="205" pX="0.5" pY="0.5" oX="63" oY="17" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_011011011.4" x="1" y="1009" w="314" h="205" pX="0.5" pY="0.5" oX="63" oY="17" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_011011011.5" x="2556" y="486" w="313" h="205" pX="0.5" pY="0.5" oX="63" oY="17" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_011011011.6" x="3188" y="324" w="306" h="205" pX="0.5" pY="0.5" oX="63" oY="17" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_011011011.7" x="2870" y="530" w="303" h="205" pX="0.5" pY="0.5" oX="63" oY="17" oW="384" oH="222"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_110110110.0" x="3467" y="763" w="292" h="231" pX="0.5" pY="0.5" oX="63" oY="25" oW="384" oH="256"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_110110110.1" x="3854" y="575" w="231" h="292" pX="0.5" pY="0.5" oX="63" oY="25" oW="384" oH="256" r="y"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_110110110.2" x="3468" y="530" w="292" h="232" pX="0.5" pY="0.5" oX="63" oY="24" oW="384" oH="256"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_110110110.3" x="3853" y="868" w="231" h="292" pX="0.5" pY="0.5" oX="63" oY="25" oW="384" oH="256" r="y"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_110110110.4" x="3174" y="614" w="292" h="232" pX="0.5" pY="0.5" oX="63" oY="24" oW="384" oH="256"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_110110110.5" x="2845" y="736" w="292" h="231" pX="0.5" pY="0.5" oX="63" oY="25" oW="384" oH="256"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_110110110.6" x="2228" y="800" w="292" h="229" pX="0.5" pY="0.5" oX="63" oY="27" oW="384" oH="256"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_110110110.7" x="2551" y="776" w="292" h="231" pX="0.5" pY="0.5" oX="63" oY="25" oW="384" oH="256"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_111111000.0" x="2965" y="1739" w="256" h="199" pX="0.5" pY="0.5" oX="0" oY="25" oW="256" oH="224"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_111111000.1" x="2708" y="1751" w="256" h="199" pX="0.5" pY="0.5" oX="0" oY="25" oW="256" oH="224"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_111111000.2" x="3222" y="1887" w="256" h="199" pX="0.5" pY="0.5" oX="0" oY="25" oW="256" oH="224"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_111111000.3" x="2965" y="1939" w="256" h="199" pX="0.5" pY="0.5" oX="0" oY="25" oW="256" oH="224"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_111111000.4" x="3479" y="2072" w="256" h="199" pX="0.5" pY="0.5" oX="0" oY="25" oW="256" oH="224"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_111111000.5" x="3222" y="2087" w="256" h="199" pX="0.5" pY="0.5" oX="0" oY="25" oW="256" oH="224"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_111111000.6" x="3736" y="2132" w="256" h="199" pX="0.5" pY="0.5" oX="0" oY="25" oW="256" oH="224"/>
+    <sprite n="tile_2x2_wwwwwwwww_0_111111000.7" x="3479" y="2272" w="256" h="199" pX="0.5" pY="0.5" oX="0" oY="25" oW="256" oH="224"/>
+</TextureAtlas>
